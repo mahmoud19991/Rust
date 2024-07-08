@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 int  age = 1999
 
 string name = " mahmoud lasin "
 
 double Heigh = 180.0
+=======
+List<String> =  []
+List<int> =  []
+>>>>>>> movies
